@@ -1,4 +1,3 @@
-CNIC
-====
+# CNIC & NSF
 
-CNIC grant proposal outline.
+Grant proposal outline for Genomic Architecture of Highland Adaptation. Planned for NSF CNIC and NSF Plant Genome.
