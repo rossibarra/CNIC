@@ -1,3 +1,13 @@
+# [CIMMYT](http://books.google.com/books?id=bsl3fz6NiZMC&pg=PA92&lpg=PA92&dq=highland+maize+roots&source=bl&ots=F8ZOetAIeA&sig=y2ceV0kluk0YD601t3q6Z1rgjbg&hl=en&sa=X&ei=V93LUc6CK6ayigKeoICoBw&ved=0CDoQ6AEwAg#v=onepage&q=highland%20maize%20roots&f=false)
+
+Highland maize is characterized by (i) highly pubescent, often purple stems, (ii) drooping, leathery leaves, (iii) weak roots, (iv) tassels with few branches, and (v) conical-shaped ears
+
+### Stats
+
+- Worldwide 8% of all maize growing area is tropical highland
+- 6M ha world total highland maize
+- 46% of maize in Tanzania is highland maize
+
 #[Root Lodging](http://repository.cimmyt.org/xmlui/bitstream/handle/10883/742/63386.pdf?sequence=1)
 
 People knowledgeable about Mexican highland maize genotypes know that the greatest weakness of this material is its susceptibility to root lodging. Mexican farmers long ago recognized this problem and try to cope with it by routinely "hilling up" highland maize three times during the vegetative stage. Still, high winds accompanying summer showers cause widespread root lodging in many seasons, especially when manure or medium-to-high levels of N fertilizer are applied. Such fields cannot be machine harvested (a rare practice in the Mexican highlands) and even harvesting by hand is difficult.•Yields may be greatly reduced when root lodging occurs during the period from just before to just after anthesis. For example, during 1988 in the Toluca Valley, one of the best farmers planted an improved variety with good management in. two large fields. In the unlodged field he harvested 6 tlha and in the badly lodged field slightly over 1 tlba
